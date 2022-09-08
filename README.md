@@ -1,2 +1,6 @@
 # GuiHW1-MarkHolber
-This is a repo for submission of HW1
+Name: Mark Holber
+Email: mark_holber@student.uml.edu
+Student id: 01848192
+
+Homework 1 submission
