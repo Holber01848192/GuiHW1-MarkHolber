@@ -1,0 +1,91 @@
+/* 
+Name: Mark Holber/UML CS/mark_holber@student.uml.edu
+Date: 9-1-2022
+File: Style.css
+formatting changes, mostly color/width/margins, as well as aligning text and images to look centered on he screen.
+Also some size adjustments.
+*/
+
+/*Main body modifications*/
+body {
+    background-color: rgb(94, 94, 253);
+}
+
+header {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    background-color: grey;
+}
+
+/* General text modifications within paragraphs*/
+h1 {
+    width: 80%;
+    margin: auto;
+    color: white;
+    font-size: 80px;
+}
+
+h2 {
+    width: 80%;
+    margin: auto;
+    color: white;
+    font-size: 60px;
+}
+
+p {
+    width: 80%;
+    margin: auto;
+    font-size: 30px;
+}
+
+
+/*Centering my links in the center of the page*/
+.middle{
+    display: block;
+    margin: auto;
+    border: 5px blue;
+    padding: 10px;
+}
+
+/*General formatting for the blocks*/
+div{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: grey;
+    font-size: 30px;
+}
+
+/*Table sizing and modifications*/
+
+table{
+    border:3px solid black;
+    text-align: center;
+    margin: auto;
+}
+
+td, th, tr{
+    border:3px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+/*Picture modifications*/
+.images3{
+    float: left;
+    width: 33.33%;
+
+}
+
+.picturesize{
+    height: 500px;
+}
+
+.pictureW3C{
+    height:150px;
+    float: left;
+    width: 50%;
+}
